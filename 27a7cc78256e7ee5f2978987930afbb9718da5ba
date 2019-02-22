@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "99d0acf6_b65a8994",
+        "filename": ".gitreview",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-02-22T06:23:28Z",
+      "side": 1,
+      "message": "Was this committed by mistake?",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 42
+      },
+      "revId": "27a7cc78256e7ee5f2978987930afbb9718da5ba",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    }
+  ]
+}
