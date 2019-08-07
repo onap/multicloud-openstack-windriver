@@ -1,0 +1,9 @@
+Code-Review+2: Bin Yang <bin.yang@windriver.com>
+Verified+1: Bin Yang <bin.yang@windriver.com>
+Code-Review+1: Jim Baker <jbaker@linuxfoundation.org>
+Code-Review+2: Xiaohua Zhang <xiaohua.zhang@windriver.com>
+Submitted-by: Xiaohua Zhang <xiaohua.zhang@windriver.com>
+Submitted-at: Wed, 07 Aug 2019 08:01:28 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/multicloud/openstack/windriver/+/92754
+Project: multicloud/openstack/windriver
+Branch: refs/heads/master
