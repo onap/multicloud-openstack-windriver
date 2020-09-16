@@ -1,0 +1,11 @@
+Code-Review+2: Bin Yang <bin.yang@windriver.com>
+Code-Review+2: Xiaohua Zhang <xiaohua.zhang@windriver.com>
+Code-Review+2: Huang Haibin <haibin.huang@intel.com>
+Verified+1: Bin Yang <bin.yang@windriver.com>
+Verified+1: Xiaohua Zhang <xiaohua.zhang@windriver.com>
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Submitted-by: Bin Yang <bin.yang@windriver.com>
+Submitted-at: Wed, 16 Sep 2020 03:36:25 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/multicloud/openstack/windriver/+/112208
+Project: multicloud/openstack/windriver
+Branch: refs/heads/master
